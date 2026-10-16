@@ -23,6 +23,3 @@ I focus on building user-centric solutions and enjoy solving problems with techn
 Time management · Teamwork & collaboration · Technical writing & documentation
 
 Arabic (Native) · English (Intermediate)
-
-## 📫 Connect with me
-Email: smr.alsaidii@gmail.com
