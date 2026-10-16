@@ -5,7 +5,7 @@ I focus on building user-centric solutions and enjoy solving problems with techn
 
 ## 🛠️ Tech Stack
 - **Languages:** Java, JavaScript, Python, SQL, HTML/CSS, TypeScript (fundamentals)
-- **Frameworks & Tools:** Django (fundamentals), Maven, Project Reactor, Git, GitHub
+- **Frameworks & Tools:** Django, Maven, Project Reactor, Git, GitHub
 - **Design:** Figma, Canva
 - **Architecture & Modeling:** Business Requirements Analysis, Software Architecture, UML
 
